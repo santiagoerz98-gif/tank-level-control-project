@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Carpeta de plots (si quieres no subir gráficos grandes)
+plots/
+
+# Archivos temporales
+*.log
+*.tmp
